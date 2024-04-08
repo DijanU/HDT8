@@ -36,7 +36,7 @@ public class PacientePQ implements Comparable<PacientePQ> {
 
     @Override
     public int compareTo(PacientePQ other) {
-        // Comparing patients based on their priority
+        
         return this.priority.compareTo(other.getPriority());
     }
 
@@ -44,9 +44,8 @@ public class PacientePQ implements Comparable<PacientePQ> {
         String database = "pacientes.txt";
         PriorityQueue<PacientePQ> heap = new PriorityQueue<>();
 
-        // Reading patients from the CSV file and adding them to the priority queue
         try (BufferedReader br = new BufferedReader(new FileReader(database))) {
-            String encabezado = br.readLine(); // Read the header, if any
+            String encabezado = br.readLine(); 
             String linea;
             while ((linea = br.readLine()) != null) {
                 String[] valores = linea.split(",");

@@ -52,10 +52,9 @@ public class HEAP<E extends Comparable<E>> {
 
         Scanner scanner = new Scanner(System.in);
         while (!tree.isEmpty()) {
-            // Obtener el próximo paciente de la cola de prioridad
             Paciente nextPatient = tree.poll();
             System.out.println("Heap");
-            // Mostrar la información del paciente
+
             System.out.println("Siguiente paciente:");
             System.out.println("Nombre: " + nextPatient.getName());
             System.out.println("Síntoma: " + nextPatient.getCondition());
