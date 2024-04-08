@@ -1,0 +1,50 @@
+Juan Perez, fractura de pierna, C
+Maria Ramirez, apendicitis, A
+Lorenzo Toledo, chikungunya, E
+Carmen Sarmientos, dolores de parto, B
+Roberto Mendoza, intoxicación alimentaria, D
+Ana Jiménez, neumonía, A
+Luis Torres, accidente cerebrovascular, C
+Sofia Gomez, diabetes tipo 2, B
+Diego Ortega, fractura de brazo, C
+Andrea Herrera, asma, A
+Javier Fernandez, gastroenteritis, D
+Valeria Martinez, infección de oído, B
+Pablo Gutierrez, migraña severa, E
+Lucia Lopez, quemaduras de segundo grado, C
+Oscar Rodriguez, tuberculosis, A
+Natalia Sanchez, dolor abdominal agudo, D
+Manuel Vargas, deshidratación, B
+Marta Flores, enfermedad de Lyme, E
+Carlos Diaz, ataque al corazón, A
+Claudia Reyes, fractura de tobillo, C
+Mateo Ramos, dengue, E
+Ana Maria Gonzalez, hipertensión, B
+Jorge Silva, cálculos renales, D
+Beatriz Peralta, fiebre tifoidea, A
+Santiago Herrera, asfixia por atragantamiento, C
+Estefania Garcia, anemia, B
+Ramon Maldonado, neumonía, A
+Julieta Cervantes, fractura de cadera, C
+Daniel Morales, accidente automovilístico, E
+Elena Fernandez, gastroenteritis, D
+Arturo Ramirez, lumbago, B
+Patricia Nuñez, intoxicación por monóxido de carbono, A
+Ricardo Lopez, contusión cerebral, C
+Gabriela Suarez, bronquitis, A
+Mario Medina, fractura de clavícula, C
+Adriana Ortiz, epilepsia, B
+Hector Cruz, dolor lumbar, E
+Carla Rosales, insuficiencia renal, A
+Javier Velazquez, quemaduras de tercer grado, C
+Ana Sofia Aguilar, influenza, D
+Antonio Fernandez, pancreatitis, B
+Laura Reyes, conjuntivitis, E
+Ernesto Rojas, meningitis, A
+Liliana Salgado, hepatitis, C
+Juan Carlos Vazquez, esguince de tobillo, B
+Mariana Diaz, hemorragia nasal, D
+Ricardo Martinez, infarto intestinal, A
+Carolina Fernandez, artritis, C
+David Suarez, fractura de fémur, E
+Daniela Garcia, ansiedad, B
