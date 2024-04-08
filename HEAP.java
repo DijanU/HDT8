@@ -1,3 +1,10 @@
+/** Algoritmos y Estructuras de datos -  seccion 30
+ * Luis Francisco Padilla Juárez - 23663
+ * HT8, heap y priorityQueue
+ * 08-04-2024
+ * @HEAP
+ */
+
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
@@ -47,7 +54,7 @@ public class HEAP<E extends Comparable<E>> {
         while (!tree.isEmpty()) {
             // Obtener el próximo paciente de la cola de prioridad
             Paciente nextPatient = tree.poll();
-            
+            System.out.println("Heap");
             // Mostrar la información del paciente
             System.out.println("Siguiente paciente:");
             System.out.println("Nombre: " + nextPatient.getName());

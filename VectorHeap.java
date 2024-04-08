@@ -1,3 +1,10 @@
+/** Algoritmos y Estructuras de datos -  seccion 30
+ * Luis Francisco Padilla Juárez - 23663
+ * HT8, heap y priorityQueue
+ * 08-04-2024
+ * @vectorHeap
+ */
+
 import java.util.PriorityQueue;
 import java.util.Vector;
 

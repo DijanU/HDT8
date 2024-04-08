@@ -1,3 +1,10 @@
+/** Algoritmos y Estructuras de datos -  seccion 30
+ * Luis Francisco Padilla Juárez - 23663
+ * HT8, heap y priorityQueue
+ * 08-04-2024
+ * @PacientePQ
+ */
+
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
@@ -56,7 +63,7 @@ public class PacientePQ implements Comparable<PacientePQ> {
         Scanner scanner = new Scanner(System.in);
         while (!heap.isEmpty()) {
             PacientePQ nextPatient = heap.poll();
-
+            System.out.println("Priority Queue");
             System.out.println("Siguiente paciente:");
             System.out.println("Nombre: " + nextPatient.getName());
             System.out.println("Síntoma: " + nextPatient.getCondition());

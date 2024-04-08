@@ -1,3 +1,10 @@
+/** Algoritmos y Estructuras de datos -  seccion 30
+ * Luis Francisco Padilla Juárez - 23663
+ * HT8, heap y priorityQueue
+ * 08-04-2024
+ * @Paciente
+ */
+
 public class Paciente implements Comparable<Paciente> {
     private String name;
     private String condition;
@@ -36,15 +43,6 @@ public class Paciente implements Comparable<Paciente> {
         int otherPriorityIndex = priorityOrder.indexOf(other.getPriority().toUpperCase());
 
         return Integer.compare(thisPriorityIndex, otherPriorityIndex);
-    }
-
-    @Override
-    public String toString() {
-        return "Paciente{" +
-                "name='" + name + '\'' +
-                ", condition='" + condition + '\'' +
-                ", priority='" + priority + '\'' +
-                '}';
     }
 
 }
